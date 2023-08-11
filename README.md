@@ -1,9 +1,8 @@
-### Olá, meu nome é Lucas Mendonça!
+### Hi there!
 
-- Graduando em Engenharia Elétrica pelo IFSC.
-- Pesquisador de Iniciação Científica.
-- Estudando JavaScript e Python.
-- Machine Learning e Data Science. 
+I'm currently working on a Machine Vision software
+I have both professional experience and a keen interest in Machine Learning, Computer Vision, and Industry 4.0.
+
 ##
 </div>
   <a href="https://github.com/lucasmendoncca">
