@@ -1,7 +1,8 @@
 ### Hi there!
 
-I'm currently working on a Machine Vision software
-I have both professional experience and a keen interest in Machine Learning, Computer Vision, and Industry 4.0.
+- Currently working on a Machine Vision software
+- Professional experience and a keen interest in Machine Learning, Computer Vision, and Industry 4.0
+- B.E in Electrical Engineering
 
 ##
 </div>
@@ -13,10 +14,12 @@ I have both professional experience and a keen interest in Machine Learning, Com
 </div>
 <div style="display: inline_block"><br>
     <img align="center" alt="Lucas-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Lucas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Lucas-SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Lucas-Streamlit" height="30" width="40" src="https://streamlit.io/images/brand/streamlit-mark-color.svg">
-  <img align="center" alt="Lucas-Streamlit" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Lucas-TensorFlow" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg">
+  <img align="center" alt="Lucas-Scikit" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
+  <img align="center" alt="Lucas-Keras" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg">
+  
 
 </div>
 
